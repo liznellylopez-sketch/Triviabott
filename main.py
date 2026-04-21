@@ -21,7 +21,6 @@ weired_factss =["a drunk man threw a bommerang and it hit him in the face so he 
 
 Bad_words =["Shit","Fuck","Bitich",]
 
-True_fan_testt =[]
 @bot.event
 async def on_ready():
     await bot.tree.sync()
