@@ -59,4 +59,4 @@ async def weired_facts(ctx):
 async def on_message(message):
 
 
-bot.run("D")
+bot.run("DISCORD_TOKEN")
