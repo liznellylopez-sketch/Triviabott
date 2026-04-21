@@ -3,6 +3,8 @@ from discord.ext import commands
 from discord import app_commands
 import random
 
+DISCORD_TOKEN="YOUR_TOKEN_HERE"
+
 intents = discord.Intents.default()
 intents.message_content = True
 
